@@ -20,3 +20,4 @@ else:
 print(room_types)
 room_types[1]="deluxe twin"
 print(room_types)
+print(room_types)
