@@ -15,3 +15,8 @@ print(type(new_room_types))
 
 if total_rooms>=20:
     print("enough room available")
+else:
+    print("limited room available")
+print(room_types)
+room_types[1]="deluxe twin"
+print(room_types)
